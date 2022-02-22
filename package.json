@@ -1,5 +1,5 @@
 {
-  "name": "book-es6",
+  "name": "awesomeb-es6",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/muhenge/bookEs6.git"
+    "url": "git+https://github.com/muhenge/awesomeb-es6.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/muhenge/bookEs6/issues"
+    "url": "https://github.com/muhenge/awesomeb-es6/issues"
   },
-  "homepage": "https://github.com/muhenge/bookEs6.git#readme",
+  "homepage": "https://github.com/muhenge/awesomeb-es6.git#readme",
   "dependencies": {
     "luxon": "^2.3.0"
   },
